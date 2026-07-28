@@ -1,13 +1,11 @@
 # 🛒 StoreGo - Telegram va Veb Orqali Mukammal Onlayn Do'kon Yaratish Platformasi
 
-<div align="center">
-
-[![StoreGo Veb-sayti](https://img.shields.io/badge/Veb--sayt-storego.site-blue?style=for-the-badge&logo=google-chrome)](https://storego.site)
-[![StoreGo Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@Store__gobot-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/Store_gobot)
-[![Darsliklar](https://shields.io)](https://youtube.com)
-[![Asosiy Kanal](https://shields.io)](https://t.me/storego_web)
-
-</div>
+<p align="center">
+  <a href="https://storego.site"><img src="https://shields.io" alt="Website"></a>
+  <a href="https://t.me"><img src="https://shields.io" alt="Bot"></a>
+  <a href="https://youtube.com"><img src="https://shields.io" alt="Tutorials"></a>
+  <a href="https://t.me"><img src="https://shields.io" alt="Channel"></a>
+</p>
 
 **StoreGo** – onlayn savdo biznesingizni rivojlantirish, tovar va xizmatlaringizni Veb-sayt hamda Telegram bot orqali qulay va avtomatlashgan tarzda sotish uchun mo'ljallangan zamonaviy platforma.
 
@@ -20,7 +18,7 @@ Biz bilan o'z internet do'koningizni atigi bir necha qadamda yarating, mijozlar 
 **StoreGo** bu tadbirkorlar va onlayn savdo egalari uchun maxsus ishlab chiqilgan innovatsion e-commerce yechimidir. Bizning platformamiz orqali siz mijozlarga nafaqat chiroyli veb-sayt, balki qulay Telegram bot orqali ham xizmat ko'rsata olasiz. 
 
 🌐 **Platformamiz:** [storego.site](https://storego.site)  
-🤖 **Telegram Botimiz:** [@Store_gobot](https://t.me/Store_gobot)
+🤖 **Telegram Botimiz:** [@Store_gobot](https://t.me)
 
 ---
 
@@ -42,8 +40,8 @@ Platformamiz foydalanuvchilarga qanday qulayliklar va imkoniyatlar taqdim etishi
 
 Siz uchun maxsus yaratilgan **namuna kanal va guruhimizga** tashrif buyuring. U yerda bot va platformamiz qanday mukammal ishlashini sinab ko'rishingiz mumkin:
 
-📢 **Namuna Kanal:** [@storego_example](https://t.me/storego_example) — Do'kon qanday ishlashi va mahsulotlar qanday joylashishini ko'ring.  
-💬 **Namuna Guruh:** [@storego_example_g](https://t.me/storego_example_g) — Mijozlar bilan ishlash va buyurtmalar jarayoni bilan tanishing.  
+📢 **Namuna Kanal:** [@storego_example](https://t.me) — Do'kon qanday ishlashi va mahsulotlar qanday joylashishini ko'ring.  
+💬 **Namuna Guruh:** [@storego_example_g](https://t.me_g) — Mijozlar bilan ishlash va buyurtmalar jarayoni bilan tanishing.  
 
 ---
 
@@ -51,11 +49,11 @@ Siz uchun maxsus yaratilgan **namuna kanal va guruhimizga** tashrif buyuring. U 
 
 Loyihamiz bo'yicha eng so'nggi yangilanishlar, foydali maslahatlar va platformamiz imkoniyatlari haqida muntazam xabardor bo'lib borish uchun rasmiy kanalimizga a'zo bo'ling:
 
-📌 **Asosiy Rasmiy Kanal:** [@storego_web](https://t.me/storego_web)  
+📌 **Asosiy Rasmiy Kanal:** [@storego_web](https://t.me)  
 
 Agar sizda platformaga ulanish bo'yicha savollar bo'lsa yoki hamkorlik qilmoqchi bo'lsangiz, istalgan vaqtda bizning ma'muriyatga (adminga) yozishingiz mumkin. Biz sizga yordam berishdan doimo xursandmiz!
 
-👨‍💻 **Admin bilan aloqa:** [@storego_admin](https://t.me/storego_admin)
+👨‍💻 **Admin bilan aloqa:** [@storego_admin](https://t.me)
 
 ---
 
