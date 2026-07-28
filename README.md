@@ -1,11 +1,11 @@
 # 🛒 StoreGo - Telegram va Veb Orqali Mukammal Onlayn Do'kon Yaratish Platformasi
 
-<p align="center">
-  <a href="https://storego.site"><img src="https://shields.io" alt="Website"></a>
-  <a href="https://t.me"><img src="https://shields.io" alt="Bot"></a>
-  <a href="https://youtube.com"><img src="https://shields.io" alt="Tutorials"></a>
-  <a href="https://t.me"><img src="https://shields.io" alt="Channel"></a>
-</p>
+<div align="center">
+
+| 🌐 [Veb-sayt (storego.site)](https://storego.site) | 🤖 [Telegram Bot (@Store_gobot)](https://t.me) | 📺 [Darsliklar (YouTube)](https://youtube.com) | 📢 [Asosiy Kanal (@storego_web)](https://t.me) |
+| --- | --- | --- | --- |
+
+</div>
 
 **StoreGo** – onlayn savdo biznesingizni rivojlantirish, tovar va xizmatlaringizni Veb-sayt hamda Telegram bot orqali qulay va avtomatlashgan tarzda sotish uchun mo'ljallangan zamonaviy platforma.
 
